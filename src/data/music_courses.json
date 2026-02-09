@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundametals",
+      "slug": "Guitar-fundametals",
+      "description": "learn the basics of playing guitar with our comprehensive beginner's courses",
+      "price": 99.99,
+      "instructor": "john doe",
+      "isFeatured": true,
+      "image": "/courses/guitar-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "Piano-for-beginners",
+      "description": "start your musical journey with our piano courses designed for beginners",
+      "price": 119.99,
+      "instructor": "jane smith",
+      "isFeatured": false,
+      "image": "/courses/guitar-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Violin Techniques",
+      "slug": "Advanced-violin-techniques",
+      "description": "take your violin skills to the next level with our advanced techniques course",
+      "price": 149.99,
+      "instructor": "emily davis",
+      "isFeatured": true,
+      "image": "/courses/guitar-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Essentials",
+      "slug": "Drumming-essentials",
+      "description": "master the fundamentals of drumming with our essential courses for all skill levels",
+      "price": 89.99,
+      "instructor": "michael brown",
+      "isFeatured": false,
+      "image": "/courses/guitar-4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training Masterclass",
+      "slug": "Vocal-training-masterclass",
+      "description": "enhance your singing abilities with our vocal training masterclass suitable for all levels",
+      "price": 129.99,
+      "instructor": "sarah wilson",
+      "isFeatured": true,
+      "image": "/courses/guitar-5.jpg"
+    }
+  ]
+}
